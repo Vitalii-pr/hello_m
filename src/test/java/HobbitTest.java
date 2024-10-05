@@ -20,7 +20,7 @@ public class HobbitTest {
 
     @Test
     public void testIsClass() {
-        assertTrue(character instanceof lotr.Character);
+        assertTrue( character instanceof lotr.Character);
     }
 
     @Test
